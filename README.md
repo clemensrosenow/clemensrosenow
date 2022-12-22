@@ -4,7 +4,7 @@
 
 🌱 Are you looking for ambitious volunteers? I’m always seeking learning opportunities.
 
-❤️ Started using *TypeScript* recently, highly focused on advancing in *ReactJS*.
+❤️ Started using *TypeScript* recently, highly focused on advancing in *Svelte*.
 
 😀 In my freetime, I like to exercise and photograph and crash drones.
 
