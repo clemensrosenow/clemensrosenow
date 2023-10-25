@@ -1,11 +1,11 @@
-# 🏁 Result-Oriented Development
+# 🏁 Elegant Full-Stack Web Development
 
-> I don't build beautiful websites but solve problems effectively.
+❤️ Enjoying *SvelteKit*, *TypeScript* and *TailwindCSS*.
 
-🌱 Are you looking for ambitious volunteers? I’m always seeking learning opportunities.
+🧭 Focused on learning backend development, currently *MongoDB*.
 
-❤️ Started using *TypeScript* recently, highly focused on advancing in *Svelte*.
+😀 Other interests: Calisthenics, crashing FPV drones.
 
-😀 In my freetime, I like to exercise and photograph and crash drones.
+🌱 Always seeking learning adventures, open for projects.
 
-📫 Contact me via [Instagram](https://www.instagram.com/clemens.rosenow/ "Clemens Rosenow on Instagram") or [Email](mailto:clemensrosenow39@gmail.com "Email")!
+📫 Contact me via [Email](mailto:clemensrosenow39@gmail.com)!
